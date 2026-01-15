@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "test-plugin-marketplace",
+  "version": "1.0.0",
+  "description": "Claude Code 플러그인 개발 학습을 위한 테스트 마켓플레이스",
+  "owner": {
+    "name": "Developer"
+  },
+  "plugins": [
+    {
+      "name": "test-plugin",
+      "description": "Claude Code 플러그인 개발 학습을 위한 테스트 플러그인",
+      "version": "0.1.0",
+      "author": {
+        "name": "Developer"
+      },
+      "source": ".",
+      "category": "development"
+    }
+  ]
+}
