@@ -14,7 +14,10 @@
       "author": {
         "name": "Developer"
       },
-      "source": ".",
+      "source": {
+        "type": "github",
+        "repo": "k984530/test-plugin"
+      },
       "category": "development"
     }
   ]
