@@ -6,5 +6,24 @@
     "name": "Developer",
     "email": "developer@example.com"
   },
-  "keywords": ["learning", "test", "example"]
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org/test-plugin"
+  },
+  "keywords": ["learning", "test", "example"],
+  "commands": {
+    "source": "commands",
+    "discover": true
+  },
+  "agents": {
+    "source": "agents",
+    "discover": true
+  },
+  "skills": {
+    "source": "skills",
+    "discover": true
+  },
+  "hooks": {
+    "source": "hooks"
+  }
 }
