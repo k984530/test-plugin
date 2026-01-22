@@ -1,6 +1,6 @@
 {
   "name": "test-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Claude Code 플러그인 개발 학습을 위한 테스트 플러그인",
   "author": {
     "name": "Developer",
