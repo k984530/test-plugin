@@ -1,7 +1,7 @@
 ---
 name: Test Guide
 description: This skill should be used when the user asks to "write tests", "create unit tests", "add test cases", "test this function", "how to test", or mentions "단위 테스트", "테스트 작성", "테스트 코드". Provides guidance for writing effective tests in JavaScript/TypeScript projects.
-version: 0.1.0
+version: 0.1.1
 ---
 
 # Test Writing Guide
