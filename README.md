@@ -8,7 +8,7 @@ Claude Code 플러그인 개발을 학습하기 위한 테스트 플러그인입
 - **test-guide**: 테스트 작성 가이드를 제공합니다.
 
 ### Commands
-- `/test-plugin:hello`: 간단한 인사 메시지를 출력합니다.
+- `/test-plugin:goodbye`: 작별 인사 메시지를 출력합니다.
 - `/test-plugin:info`: 플러그인 정보를 표시합니다.
 
 ### Agents
@@ -29,7 +29,7 @@ cp -r test-plugin /your-project/.claude-plugin/
 
 ## 사용 방법
 
-1. `/test-plugin:hello` - 인사 메시지 확인
+1. `/test-plugin:goodbye` - 작별 인사 메시지 확인
 2. `/test-plugin:info` - 플러그인 정보 확인
 3. "테스트 작성 방법" 질문 - test-guide 스킬 트리거
 4. "이 플러그인 사용법" 질문 - plugin-helper 에이전트 트리거
